@@ -1,5 +1,10 @@
+# Prodigy-Tasks
 
-# Iris Dataset Analysis
+## Prodigy_Data-Science_Task-02
+
+Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
+
+## Iris Dataset Analysis
 
 This repository contains Python code to perform Exploratory Data Analysis (EDA) on the Iris dataset as part of a data science internship task. The analysis includes data cleaning, correlation analysis, and data visualization using Pandas, NumPy, Seaborn and Matplotlib libraries.
 
