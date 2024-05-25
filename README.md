@@ -29,7 +29,3 @@ Contributions are welcome! If you have any suggestions, improvements, or additio
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README further to include any additional information or sections you find relevant. Let me know if you need further assistance!
